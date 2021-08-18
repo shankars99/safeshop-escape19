@@ -2,7 +2,7 @@
 	"db":{
 		"dev":{
 
-			"host":"mongodb+srv://common:fromceg143@ceg-oherv.mongodb.net/test?retryWrites=true&w=majority"
+			//"host":"mongodb+srv://common:fromceg143@ceg-oherv.mongodb.net/test?retryWrites=true&w=majority"
 		}
 	,
 		"prod":{
